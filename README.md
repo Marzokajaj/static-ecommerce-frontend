@@ -1,15 +1,14 @@
 # Static E-commerce Frontend
 
+## Live Demo
+
+[View Project Live](https://marzokajaj.github.io/static-ecommerce-frontend/)
+
 A static e-commerce frontend project built with HTML, CSS, and JavaScript.
 
 This project includes a home page, product sliders, shopping cart, product data loaded from JSON, LocalStorage cart management, and a checkout page.
 
 ---
-
-## Live Demo
-
-[View Project Live](https://marzokajaj.github.io/static-ecommerce-frontend/)
-
 
 ## Features
 
