@@ -6,6 +6,11 @@ This project includes a home page, product sliders, shopping cart, product data 
 
 ---
 
+## Live Demo
+
+[View Project Live](https://marzokajaj.github.io/static-ecommerce-frontend/)
+
+
 ## Features
 
 - Responsive e-commerce homepage
